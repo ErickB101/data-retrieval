@@ -1,1 +1,1 @@
-# data-retrieval
+Thank you for visiting and wishing to check out my weather app code, all the info needed to understand specific sections are written as comments inside the php files. These are programs I created using php and sql to retrieve data, It taught me the fundamentals of both programs and how to efficently use them together.
